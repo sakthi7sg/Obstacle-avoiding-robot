@@ -1,7 +1,6 @@
 # Obstacle-Avoiding Robot
 
 
-\
 
 
 > University of Hertfordshire - BEng (Hons) Robotics and Artificial Intelligence

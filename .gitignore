@@ -1,0 +1,69 @@
+# =============================================================
+# .gitignore - Obstacle-Avoiding Robot
+# Applied Robotics and AI Project
+# University of Hertfordshire - BEng (Hons) Robotics and AI
+# =============================================================
+
+# Operating system files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+
+# Temporary, backup and log files
+*.tmp
+*.temp
+*.bak
+*.old
+*.log
+
+# Arduino build output
+build/
+*.hex
+*.elf
+*.eep
+*.map
+*.o
+*.a
+
+# Python files and virtual environments
+__pycache__/
+*.py[cod]
+*.pyc
+venv/
+.venv/
+env/
+.ipynb_checkpoints/
+
+# Secrets and credentials
+.env
+*.key
+*.pem
+secrets.txt
+credentials.json
+
+# Large data and media files
+*.mp4
+*.avi
+*.mov
+*.zip
+*.rar
+*.7z
+
+# Keep source code and documentation tracked
+# src/
+# docs/images/

@@ -158,6 +158,12 @@ Example commit messages:
 - `Implement motor control logic`
 
 ## Common Git Commands
+ <img width="940" height="442" alt="image" src="https://github.com/user-attachments/assets/25ebfca7-6f89-4ea4-a0be-cafdd8ae701e" />
+<img width="940" height="395" alt="image" src="https://github.com/user-attachments/assets/30405e7e-6ea4-4c1c-8688-115c6a7868b8" />
+<img width="940" height="420" alt="image" src="https://github.com/user-attachments/assets/ce3125c2-fd79-4923-8940-f5209188676e" />
+ Figure 6: Pull Request showing the feature branch merged into the main branch.
+<img width="940" height="448" alt="image" src="https://github.com/user-attachments/assets/80131f0d-fbd4-4824-be51-9cdeca16a41b" />
+  Figure 7: Git commit history showing the recorded project changes.
 
 | Command                    | Purpose                                                      |
 | -------------------------- | ------------------------------------------------------------ |
@@ -170,14 +176,19 @@ Example commit messages:
 | `git pull origin main`     | Fetches and integrates changes from the remote `main` branch |
 | `git log --oneline`        | Displays a concise commit history                            |
 
+
 ### Difference Between Add, Commit, and Push
 
 **Git Add:** Selects the file changes to be included in the next commit by placing them in the staging area.
+<img width="844" height="129" alt="image" src="https://github.com/user-attachments/assets/eafde6c6-9d12-4fd6-8f5c-c4c1e5900ea8" />
+Figure 3: Git commit recording the staged changes in the local repository.
 
 **Git Commit:** Records the staged changes as a snapshot in the local repository history. Each commit includes a descriptive message.
-
+<img width="844" height="129" alt="image" src="https://github.com/user-attachments/assets/df0cd807-5ddc-42c0-b1a2-62d459217bef" />
+Figure 3: Git commit recording the staged changes in the local repository.
 **Git Push:** Uploads local commits to a remote repository, such as GitHub, so the changes are available remotely.
-
+<img width="635" height="238" alt="image" src="https://github.com/user-attachments/assets/3091b597-9c5a-4887-9a7a-02f2114371a8" />
+Figure 4: Git push uploading local commits to the GitHub main branch.
 In summary, `add` prepares changes, `commit` records them locally, and `push` sends the commits to the remote repository.
 
 ## Project Management

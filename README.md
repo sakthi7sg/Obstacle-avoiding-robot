@@ -193,7 +193,7 @@ Project tasks are organised and tracked using Trello. The board uses the followi
 
 Labels, due dates, checklists, and task updates are used to monitor progress and organise the project workflow.
 
-**Trello Board:** [Insert your Trello board link here]
+**Trello Board:** [https://trello.com/invite/b/6ad4a5709c190b455e2bf12a/ATTI5760407b427f4dd465fa5cb31620aef8425C6F20/obstacle-avoidance-robot-applied-robotics-and-ai-projects]
 
 ## Roadmap
 
@@ -203,10 +203,10 @@ Labels, due dates, checklists, and task updates are used to monitor progress and
 - [x] Complete the circuit design.
 - [x] Implement the ultrasonic sensor code.
 - [x] Develop the motor control code.
-- [ ] Integrate sensor and motor control logic.
-- [ ] Test and tune obstacle avoidance.
-- [ ] Record the demonstration video.
-- [ ] Complete the final assignment documentation.
+- [x] Integrate sensor and motor control logic.
+- [x] Test and tune obstacle avoidance.
+- [x] Record the demonstration video.
+- [x] Complete the final assignment documentation.
 
 **Progress note:** Update the checklist based on actual project progress. Mark a task as complete only after it has been completed.
 

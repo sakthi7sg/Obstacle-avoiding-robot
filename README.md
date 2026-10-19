@@ -180,15 +180,15 @@ Example commit messages:
 ### Difference Between Add, Commit, and Push
 
 **Git Add:** Selects the file changes to be included in the next commit by placing them in the staging area.
-<img width="844" height="129" alt="image" src="https://github.com/user-attachments/assets/eafde6c6-9d12-4fd6-8f5c-c4c1e5900ea8" />
-Figure 3: Git commit recording the staged changes in the local repository.
+<img width="844" height="129" alt="image" src="https://github.com/user-attachments/assets/eafde6c6-9d12-4fd6-8f5c-c4c1e5900ea8" />  
+              Figure 3: Git commit recording the staged changes in the local repository.
 
 **Git Commit:** Records the staged changes as a snapshot in the local repository history. Each commit includes a descriptive message.
 <img width="844" height="129" alt="image" src="https://github.com/user-attachments/assets/df0cd807-5ddc-42c0-b1a2-62d459217bef" />
-Figure 3: Git commit recording the staged changes in the local repository.
+            Figure 3: Git commit recording the staged changes in the local repository.
 **Git Push:** Uploads local commits to a remote repository, such as GitHub, so the changes are available remotely.
 <img width="635" height="238" alt="image" src="https://github.com/user-attachments/assets/3091b597-9c5a-4887-9a7a-02f2114371a8" />
-Figure 4: Git push uploading local commits to the GitHub main branch.
+          Figure 4: Git push uploading local commits to the GitHub main branch.
 In summary, `add` prepares changes, `commit` records them locally, and `push` sends the commits to the remote repository.
 
 ## Project Management

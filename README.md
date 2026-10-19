@@ -202,6 +202,15 @@ Project tasks are organised and tracked using Trello. The board uses the followi
 - **Done:** Tasks that have been completed and verified.
 
 Labels, due dates, checklists, and task updates are used to monitor progress and organise the project workflow.
+### Git workflow (clone, add, commit, push)
+![Git Workflow 1](docs/images/git-workflow-1.png)
+![Git Workflow 2](docs/images/git-workflow-2.png)
+![Git Workflow 3](docs/images/git-workflow-3.png)
+![Git Workflow 4](docs/images/git-workflow-4.png)
+
+## Project Management
+![Trello Board](docs/images/trello-board.png)
+![Trello Card](docs/images/trello-card.png)
 
 **Trello Board:** [https://trello.com/invite/b/6ad4a5709c190b455e2bf12a/ATTI5760407b427f4dd465fa5cb31620aef8425C6F20/obstacle-avoidance-robot-applied-robotics-and-ai-projects]
 

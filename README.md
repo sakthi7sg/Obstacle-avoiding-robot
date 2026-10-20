@@ -203,14 +203,20 @@ Project tasks are organised and tracked using Trello. The board uses the followi
 
 Labels, due dates, checklists, and task updates are used to monitor progress and organise the project workflow.
 ### Git workflow (clone, add, commit, push)
-![Git Workflow 1](docs/images/git-workflow-1.png)
-![Git Workflow 2](docs/images/git-workflow-2.png)
-![Git Workflow 3](docs/images/git-workflow-3.png)
-![Git Workflow 4](docs/images/git-workflow-4.png)
-
+<img width="730" height="395" alt="GitHub work flow image 1 png" src="https://github.com/user-attachments/assets/f6d8b5f1-000b-4895-aa16-0c8a79b67c6f" />
+<img width="550" height="713" alt="GitHub work flow image 2 png" src="https://github.com/user-attachments/assets/acffa169-fed9-40b9-a1f8-f3ba357c2f02" />
+<img width="830" height="793" alt="GitHub work flow image 3 png" src="https://github.com/user-attachments/assets/89983dba-28ce-4408-a5da-6231acc5800a" />
+<img width="912" height="728" alt="GitHub work flow image 4 png" src="https://github.com/user-attachments/assets/98a77cea-9b4d-46e2-9fc4-a4d0904f2f52" />
+                              Figure: gitbash comments
 ## Project Management
-![Trello Board](docs/images/trello-board.png)
-![Trello Card](docs/images/trello-card.png)
+<img width="1228" height="654" alt="image" src="https://github.com/user-attachments/assets/fcd72f32-56e3-44f9-a677-8f3726535a63" />
+
+              Figure:Trello board
+<img width="1073" height="593" alt="image" src="https://github.com/user-attachments/assets/c8f0bf00-953d-42ac-b373-f564cdc5fffb" />
+                     
+<img width="554" height="334" alt="image" src="https://github.com/user-attachments/assets/e793634c-9f6c-4f23-a1a8-38f675fa900f" />
+                    
+              Figurer: Adding Collabrator and trello card
 
 **Trello Board:** [https://trello.com/invite/b/6ad4a5709c190b455e2bf12a/ATTI5760407b427f4dd465fa5cb31620aef8425C6F20/obstacle-avoidance-robot-applied-robotics-and-ai-projects]
 
